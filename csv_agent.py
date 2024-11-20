@@ -82,4 +82,25 @@ except Exception as e:
     traceback.print_exc()
     raise
 
-print(f"Final result: {res["output"]}")
+# print(f"Final result: {res["output"]}")
+
+import streamlit as st
+
+#create a title
+st.title("Database AI Agent with Langchain")
+st.write("### Dataset Preview")
+st.write(df.head())
+
+# User input query
+st.write("## Ask a Question")
+question = st.text_input(
+    "Enter your question about the dataset:",
+    "Are there any noticeable patterns in sales following promotional campaigns for specific products?"
+)
+
+# Run the agent and display the result when button cliecked
+if st.button("Run Query"):
+    QUERY =  CSV_PROMPT_PREFIX + question + CSV_PROMPT_SUFFIX
+    res = agent.invoke(QUERY)
+    st.write("### Final Answer")
+    st.markdown(res["output"])
