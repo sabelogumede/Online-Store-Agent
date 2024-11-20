@@ -1,0 +1,15 @@
+Product ID,Product Name,Product Category,Price (Currency),Supplier Name,Supplier Contact,Supplier Lead Time (Days),Average Customer Rating,Number of Reviews,Stock Quantity,Sales Velocity (Units/Day),Stock In,Stock Out,Time to Replenish (Days),Reorder Point (ROP),Promotion Type,Discount Amount/Percentage,Sales Channel,Order Size (Quantity),Customer Acquisition Source,Lead Time to Customer (Days),Days of Stock Left,Sales Forecast (Next Period),Product Expiry Date,Product Added Year,Most Selling Product,Stock Allocation,Time of Season,Lead Time to Customer,Stockout Risk
+1,Wireless Mouse,Electronics,R25.99,ABC Supplies,+1234567890,5,4.5,120,500,20,100,10,5,100,Discount,10%,Website,1,Organic,2,300,2000,2023-12-31,2023,Yes,Main Store,Peak Season,2,10%
+2,Gaming Keyboard,Electronics,R75.99,XYZ Electronics,+1234567890,7,4.8,50,250,15,60,15,7,60,Flash Sale,15%,Marketplace,2,Paid,3,150,1500,2024-06-30,2023,No,Warehouse,Off-Peak,3,5%
+3,Bluetooth Speaker,Electronics,R45.99,ABC Supplies,+1234567890,4,4.7,80,400,30,200,30,4,180,Bundle,20%,Website,1,Referral,2,180,1200,2024-05-01,2023,No,Main Store,Peak Season,2,15%
+4,Smart Watch,Electronics,R199.99,XYZ Electronics,+1234567890,10,4.2,75,150,12,50,15,10,50,Discount,10%,Marketplace,1,Organic,5,50,500,2023-11-30,2023,Yes,Warehouse,Off-Peak,5,8%
+5,Air Purifier,Home Appliances,R120.99,CleanTech,+1234567890,6,4.4,90,250,25,80,10,6,80,Flash Sale,20%,Social Media,3,Paid,2,150,1000,2024-09-15,2024,No,Main Store,Peak Season,2,10%
+6,Blender,Kitchen Appliances,R69.99,Kitchen World,+1234567890,3,4.6,110,350,35,90,25,3,90,Discount,10%,Website,1,Organic,2,300,2000,2024-01-15,2023,Yes,Main Store,Off-Peak,2,5%
+7,Vacuum Cleaner,Home Appliances,R149.99,CleanTech,+1234567890,8,4.5,100,200,20,60,40,8,60,Flash Sale,15%,Marketplace,2,Paid,4,120,800,2024-05-31,2024,No,Warehouse,Off-Peak,4,10%
+8,Electric Kettle,Kitchen Appliances,R40.99,Kitchen World,+1234567890,4,4.3,120,500,50,120,25,4,120,Bundle,10%,Social Media,1,Referral,2,300,1500,2024-07-30,2023,No,Main Store,Peak Season,2,12%
+9,Smartphone,Electronics,R799.99,TechCorp,+1234567890,14,4.7,200,700,50,150,10,14,150,Discount,5%,Marketplace,1,Organic,3,500,1000,2024-03-31,2024,Yes,Main Store,Off-Peak,3,20%
+10,Coffee Maker,Kitchen Appliances,R99.99,Kitchen World,+1234567890,5,4.4,150,400,30,100,30,5,100,Flash Sale,25%,Website,1,Paid,2,300,1800,2023-12-25,2024,No,Main Store,Off-Peak,2,25%
+11,Treadmill,Fitness Equipment,R599.99,FitTech,+1234567890,10,4.5,60,150,12,120,5,10,120,Discount,10%,Website,1,Organic,5,700,700,2024-02-14,2024,Yes,Warehouse,Off-Peak,5,8%
+12,Yoga Mat,Fitness Equipment,R29.99,FitTech,+1234567890,3,4.8,300,500,60,200,10,3,200,Bundle,20%,Marketplace,2,Paid,2,100,1500,2024-08-01,2023,No,Main Store,Peak Season,2,10%
+13,Weight Set,Fitness Equipment,R149.99,GymTech,+1234567890,8,4.7,100,400,40,120,20,8,120,Flash Sale,10%,Social Media,2,Referral,4,800,1000,2024-04-05,2024,Yes,Warehouse,Peak Season,4,15%
+14,Refrigerator,Home Appliances,R999.99,CoolTech,+1234567890,14,4.5,40,100,10,30,5,14,30,Bundle,15%,Website,1,Paid,6,100,400,2023-12-15,2024,No,Warehouse,Peak Season,6,18%
